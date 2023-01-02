@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\KOD.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\KOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\KOD.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\KOD.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\KOD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\bin\Debug\net6.0\KOD.exe
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\bin\Debug\net6.0\KOD.deps.json
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\bin\Debug\net6.0\KOD.runtimeconfig.json
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\bin\Debug\net6.0\KOD.dll
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\bin\Debug\net6.0\KOD.pdb
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\KOD.dll
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\refint\KOD.dll
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\KOD.pdb
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\KOD.genruntimeconfig.cache
+C:\Users\User\Desktop\Учёба\Итоговое. Выбор специализации\Itog\KOD\obj\Debug\net6.0\ref\KOD.dll
